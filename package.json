@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.9.55",
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/i18n": "^7.0.1",
+    "@nuxtjs/toast": "^3.3.1",
+    "core-js": "^3.15.1",
+    "import": "0.0.6",
+    "material-design-icons-iconfont": "^6.1.0",
+    "nuxt": "^2.15.7",
+    "nuxt-i18n": "^6.28.0",
+    "vue-html2pdf": "^1.8.0",
+    "vue-json-csv": "^1.2.12",
+    "vuetify": "^2.5.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.1"
+  }
+}
