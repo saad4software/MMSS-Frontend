@@ -1,5 +1,5 @@
 # MMSS-Frontend
-Backend code for custom company salary system
+Frontend code for custom company salary system
 
 # System Idea
 How to calculate an employee salary?
